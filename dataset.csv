@@ -1,0 +1,28 @@
+text,intent
+my payment failed,Payment Failed
+payment is not going through,Payment Failed
+transaction failed but money deducted,Payment Failed
+i want a refund,Refund Request
+please refund my payment,Refund Request
+when will i get my refund,Refund Request
+cancel my subscription,Cancel Subscription
+i want to stop my plan,Cancel Subscription
+please cancel my membership,Cancel Subscription
+i need invoice for my payment,Billing Issue
+where is my invoice,Billing Issue
+billing amount is wrong,Billing Issue
+my account verification failed,Account Verification
+kyc verification issue,Account Verification
+verify my account,Account Verification
+my card is not working,Card Issue
+bank card declined,Card Issue
+debit card not accepted,Card Issue
+someone used my account,Fraud Issue
+suspicious transaction detected,Fraud Issue
+unauthorized payment happened,Fraud Issue
+app is showing error,Technical Issue
+website not loading,Technical Issue
+i am facing technical problem,Technical Issue
+i need help,General Support
+can you help me,General Support
+i have a question,General Support
