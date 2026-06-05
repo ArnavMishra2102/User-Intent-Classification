@@ -18,7 +18,7 @@ routes = {
     "General Support": "General Help Desk"
 }
 
-st.set_page_config(page_title="User Intent Classifier", page_icon="🤖")
+st.set_page_config(page_title="User Intent Classifier")
 
 st.title("Real-Time User Intent Classification")
 st.write("This app predicts what the user wants to do while they are typing.")
